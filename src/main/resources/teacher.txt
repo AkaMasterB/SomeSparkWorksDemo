@@ -1,0 +1,10 @@
+Leo,25
+Marry,17
+Jack,15
+Tom,16
+Kattie,21
+Jen,19
+Gen,18
+Kaa,13
+Jtt,12
+Great,11
